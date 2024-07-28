@@ -1,6 +1,6 @@
-Chapter I
+# Chapter I
 
-An overview of our upcoming activities and preparations
+## An overview of our upcoming activities and preparations
 
 The goal of this course is to provide an understanding of how to create a game project that can be completed by a novice solo developer with no previous experience.
 
