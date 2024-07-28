@@ -23,3 +23,11 @@ Is this a reason for despair? Not at all. We know for sure that paper can be use
 Now, if you are inspired enough, let's get to the preparation. If not, go and make a paper airplane.
 
 We will start by creating an account in github or gitlab or another similar service, where our prototype and project files will be stored, as well as changes to them. Do it yourself. The git repository will be one of your main tools when creating the game.
+
+After creating an account, we will start planning our project. For this step, we will need paper and pencil. This step will be described in detail in Chapter II.
+
+With a fully planned project in hands, we will proceed to create a playable prototype. We will look at game entities, their representation, and their implementation in game engines. Then we will break down our project into game entities and recreate our project on a game engine as a prototype. We will evaluate its playability, make changes to the plan and prototype, We will repeat this until we get an acceptable result. Along the way, we will learn programming and debugging.
+
+At the next stage, when we have a fully completed prototype, with a storyline, developed gameplay and characters, we will proceed to the full realization of our project, including all the necessary resources, animations, dialogues, lighting, sounds and music, and other components. In addition, we will create a game menu, a system of player achievements, as well as a system of saving and loading the state of the game session.
+
+The final stage is to build the game for different platforms and review of services for publishing.
