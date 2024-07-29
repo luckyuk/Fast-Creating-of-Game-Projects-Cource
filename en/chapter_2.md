@@ -33,8 +33,6 @@ Here's a quick storyboard for the opening scene of our game, which you'll recrea
 
 ![Intro scene storyboard](../img/img_2_1.jpg)
 
-![Intro scene storyboard](https://github.com/luckyuk/Fast-Creating-of-Game-Projects-Cource/blob/main/img/img_2_1.jpg)
-
 In this opening scene, the main character is not shown, you see the scene from a first person view.
 
 To progress through the story, the player must:
