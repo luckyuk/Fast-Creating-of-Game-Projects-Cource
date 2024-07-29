@@ -31,6 +31,8 @@ It is a good idea for artists, as well as game designers, to prepare a storyboar
 
 Here's a quick storyboard for the opening scene of our game, which you'll recreate in the next section.
 
+![Intro scene storyboard](../img/img_2_1.jpg)
+
 ![Intro scene storyboard](https://github.com/luckyuk/Fast-Creating-of-Game-Projects-Cource/blob/main/img/img_2_1.jpg)
 
 In this opening scene, the main character is not shown, you see the scene from a first person view.
